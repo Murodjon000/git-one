@@ -225,7 +225,7 @@ About
   padding: 1rem 0;
   border: none;
   text-transform: capitalize;
-  font-size: 1rem;
+  font-size: 1.1rem;
   display: block;
   background: var(--clr-grey-9);
   cursor: pointer;
@@ -239,7 +239,7 @@ About
 .about-content {
   border-bottom-left-radius: var(--radius);
   border-bottom-right-radius: var(--radius);
-  padding: 2rem 1.5rem;
+  padding: 2rem 1.4rem;
 }
 /* hide content */
 .content {
